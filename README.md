@@ -1,5 +1,4 @@
 # Week - 2
-```Hafta veya Ödev Sayısı (NULL değiştir)```
 
 # Homework 
 Basic Shopping List 
@@ -7,10 +6,10 @@ Basic Shopping List
 
 ## Homework Description
 
-![1](https://user-images.githubusercontent.com/108937694/201442905-3f5a38e8-3463-418c-b4e3-92a766ae92a0.png)
+![1](https://user-images.githubusercontent.com/108937694/201443057-48feef43-1db2-43d7-8aec-54a57d4a14d1.png)
 
+![2](https://user-images.githubusercontent.com/108937694/201443070-1b06eabe-30fc-406e-8acb-9638ba532f9e.png)
 
-![2](https://user-images.githubusercontent.com/108937694/201442907-1fff3f29-2b94-49c7-bb0a-bfab6eec48f8.png)
 
 
 
